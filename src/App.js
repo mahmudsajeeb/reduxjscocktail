@@ -1,8 +1,10 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './components/Index'
-import SingleCocktail from './components/SingleCocktail'
+ 
 import Header from './components/Header'
+import Home from './pages'
+import SingleCocktail from './pages/SingleCocktail'
+ 
 
 export default function App() {
   return (
