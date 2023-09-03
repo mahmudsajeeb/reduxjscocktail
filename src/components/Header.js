@@ -6,7 +6,7 @@ function Header() {
     <div className="navbar navbar-light bg-light fixed-top">
 
       <div className="container-fluid">
-        <span className='navbar-brand mb0 h1 header-title text-success'>
+        <span className='navbar-brand mb-0 h1 header-title text-success'>
             Find your favorite  Cocktail
         </span>
       </div>
